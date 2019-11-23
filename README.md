@@ -48,7 +48,7 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 ```yml
 username: Lorem Ipsum
 user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Mauricio Urraco
+user_title: Jun Sung Hwang
 email: mauriurraco@gmail.com
 ```
 
